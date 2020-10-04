@@ -1,0 +1,3 @@
+# venv (virtual environment) is a temporary working environment for python
+# it should be generated locally and not kept in version control
+venv
